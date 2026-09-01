@@ -1,0 +1,65 @@
+about:
+  description: A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
+  license: MIT
+  homepage: https://webpack.js.org
+  head: 5352fd8
+  archived: false
+  latestVersion: v5.110.2
+  collectedAt: 2026-09-01T04:57:13Z
+timeline:
+  created: 2012-03-10
+  lastCommit: 2026-08-31
+  lastRelease: 2026-08-30
+popularity:
+  star: 65963
+  watcher: 1469
+  fork: 9548
+  release: 465
+  contributor: 844
+  pullRequest: 2951
+  issue: 10236
+language:
+  JavaScript: 14553383
+  CSS: 434031
+  HTML: 106486
+  WebAssembly: 21387
+  TypeScript: 18794
+  Less: 1094
+  CoffeeScript: 325
+  Pug: 130
+  SCSS: 32
+  Perl: 4
+totalLine: 15135666
+recent:
+  last30d:
+    since: 2026-08-02
+    release: 3
+    mergedPR: 223
+    openPR: 34
+    closedIssue: 13
+    openIssue: 3
+    commit: 202
+  last90d:
+    since: 2026-06-03
+    release: 11
+    mergedPR: 594
+    openPR: 50
+    closedIssue: 43
+    openIssue: 4
+    commit: 590
+  last180d:
+    since: 2026-03-05
+    release: 17
+    mergedPR: 883
+    openPR: 54
+    closedIssue: 85
+    openIssue: 4
+    commit: 895
+  last360d:
+    since: 2025-09-06
+    release: 27
+    mergedPR: 1295
+    openPR: 56
+    closedIssue: 139
+    openIssue: 7
+    commit: 1336
