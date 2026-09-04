@@ -7,7 +7,7 @@ about:
   head: 31a69f1
   archived: false
   latestVersion: v5.110.3
-  collectedAt: 2026-09-04T19:27:07Z
+  collectedAt: 2026-09-04T21:08:02Z
 timeline:
   created: 2012-03-10
   lastCommit: 2026-09-04
@@ -18,7 +18,7 @@ popularity:
   fork: 9547
   release: 466
   contributor: 845
-  pullRequest: 9459
+  pullRequest: 9461
   issue: 10241
 language:
   JavaScript: 15341884
@@ -37,7 +37,7 @@ recent:
     since: 2026-08-05
     release: 4
     mergedPR: 248
-    openPR: 18
+    openPR: 20
     closedIssue: 18
     openIssue: 2
     commit: 250
@@ -45,7 +45,7 @@ recent:
     since: 2026-07-06
     release: 7
     mergedPR: 446
-    openPR: 32
+    openPR: 34
     closedIssue: 32
     openIssue: 3
     commit: 459
@@ -53,7 +53,7 @@ recent:
     since: 2026-06-06
     release: 12
     mergedPR: 621
-    openPR: 35
+    openPR: 37
     closedIssue: 48
     openIssue: 3
     commit: 638
@@ -61,7 +61,7 @@ recent:
     since: 2026-03-08
     release: 18
     mergedPR: 928
-    openPR: 37
+    openPR: 39
     closedIssue: 90
     openIssue: 3
     commit: 943
@@ -69,7 +69,7 @@ recent:
     since: 2025-09-09
     release: 28
     mergedPR: 1334
-    openPR: 38
+    openPR: 40
     closedIssue: 144
     openIssue: 6
     commit: 1384
@@ -77,18 +77,121 @@ recent:
     since: 2024-09-14
     release: 51
     mergedPR: 1766
-    openPR: 45
+    openPR: 47
     closedIssue: 342
     openIssue: 12
     commit: 2134
 total:
   release: 466
   mergedPR: 6500
-  openPR: 76
+  openPR: 78
   closedIssue: 10185
   openIssue: 56
   commit: 19386
 ---
+path: /home/runner/.x-repo/github.com/webpack/webpack
+collectedAt: 2026-09-04T21:08:15Z
+loc:
+  JavaScript:
+    code: 397880
+    comments: 93355
+    blanks: 41755
+    files: 14881
+  TypeScript:
+    code: 19846
+    comments: 17605
+    blanks: 3284
+    files: 134
+  Json:
+    code: 19126
+    comments: 0
+    blanks: 3
+    files: 649
+  Css:
+    code: 13134
+    comments: 2601
+    blanks: 2469
+    files: 934
+  Html:
+    code: 3790
+    comments: 166
+    blanks: 195
+    files: 341
+  Svg:
+    code: 2718
+    comments: 106
+    blanks: 0
+    files: 71
+  WebAssembly:
+    code: 681
+    comments: 4
+    blanks: 54
+    files: 81
+  Yaml:
+    code: 348
+    comments: 15
+    blanks: 13
+    files: 3
+  Less:
+    code: 89
+    comments: 0
+    blanks: 14
+    files: 19
+  Xml:
+    code: 19
+    comments: 0
+    blanks: 0
+    files: 1
+  CoffeeScript:
+    code: 18
+    comments: 3
+    blanks: 4
+    files: 5
+  Toml:
+    code: 18
+    comments: 0
+    blanks: 3
+    files: 3
+  Cpp:
+    code: 14
+    comments: 4
+    blanks: 3
+    files: 1
+  Pug:
+    code: 8
+    comments: 0
+    blanks: 1
+    files: 4
+  Tsx:
+    code: 6
+    comments: 0
+    blanks: 2
+    files: 1
+  Jsx:
+    code: 4
+    comments: 0
+    blanks: 0
+    files: 4
+  Sass:
+    code: 1
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 24091
+    blanks: 4944
+    files: 199
+  Text:
+    code: 0
+    comments: 178
+    blanks: 16
+    files: 127
+total:
+  code: 465263
+  comments: 140870
+  blanks: 54175
+  files: 17459
 ---
 date: "2026-08-24"
 repo:
