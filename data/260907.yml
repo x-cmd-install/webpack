@@ -2,25 +2,25 @@ about:
   description: "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through \"loaders\", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff."
   license: MIT
   homepage: https://webpack.js.org
-  head: 92c4650
+  head: 15beefc
   archived: false
   latestVersion: "v5.110.3"
-  collectedAt: 2026-09-07T04:27:00Z
+  collectedAt: 2026-09-07T20:12:27Z
 timeline:
   created: 2012-03-10
-  lastCommit: 2026-09-06
+  lastCommit: 2026-09-07
   lastRelease: 2026-09-01
 popularity:
-  star: 65965
+  star: 65966
   watcher: 1468
-  fork: 9550
+  fork: 9554
   release: 466
   contributor: 846
-  pullRequest: 9488
+  pullRequest: 9497
   issue: 10241
 language:
-  JavaScript: 15700485
-  CSS: 451340
+  JavaScript: 15833513
+  CSS: 452035
   HTML: 110114
   WebAssembly: 21387
   TypeScript: 19115
@@ -28,93 +28,94 @@ language:
   CoffeeScript: 325
   Pug: 130
   SCSS: 32
+  Shell: 31
   Perl: 4
-totalBytes: 16304026
+totalBytes: 16437780
 recent:
   last30d:
     since: 2026-08-08
     release: 4
-    mergedPR: 255
-    openPR: 16
+    mergedPR: 266
+    openPR: 17
     closedIssue: 18
     openIssue: 0
-    commit: 211
+    commit: 222
   last60d:
     since: 2026-07-09
     release: 7
-    mergedPR: 455
-    openPR: 29
+    mergedPR: 466
+    openPR: 30
     closedIssue: 34
     openIssue: 0
-    commit: 434
+    commit: 445
   last90d:
     since: 2026-06-09
     release: 12
-    mergedPR: 617
-    openPR: 32
+    mergedPR: 628
+    openPR: 33
     closedIssue: 48
     openIssue: 0
-    commit: 616
+    commit: 627
   last180d:
     since: 2026-03-11
     release: 18
-    mergedPR: 942
-    openPR: 34
+    mergedPR: 953
+    openPR: 35
     closedIssue: 89
     openIssue: 0
-    commit: 951
+    commit: 962
   last360d:
     since: 2025-09-12
     release: 28
-    mergedPR: 1346
-    openPR: 35
+    mergedPR: 1357
+    openPR: 36
     closedIssue: 147
     openIssue: 3
-    commit: 1403
+    commit: 1414
   last720d:
     since: 2024-09-17
     release: 51
-    mergedPR: 1787
-    openPR: 42
+    mergedPR: 1798
+    openPR: 43
     closedIssue: 344
     openIssue: 9
-    commit: 2156
+    commit: 2167
 total:
   release: 466
-  mergedPR: 6523
-  openPR: 72
-  closedIssue: 10188
-  openIssue: 53
-  commit: 19408
+  mergedPR: 6534
+  openPR: 73
+  closedIssue: 10189
+  openIssue: 52
+  commit: 19419
 ---
 path: /home/runner/.x-repo/github.com/webpack/webpack
-collectedAt: 2026-09-07T04:27:22Z
+collectedAt: 2026-09-07T20:12:59Z
 loc:
   JavaScript:
-    code: 405008
-    comments: 96958
-    blanks: 42667
-    files: 15121
+    code: 408381
+    comments: 97854
+    blanks: 43079
+    files: 15194
   TypeScript:
-    code: 19861
-    comments: 17639
-    blanks: 3294
+    code: 20002
+    comments: 17841
+    blanks: 3322
     files: 134
   Json:
-    code: 19214
+    code: 19281
     comments: 0
     blanks: 3
-    files: 663
+    files: 664
   Css:
-    code: 13183
-    comments: 2613
+    code: 13191
+    comments: 2618
     blanks: 2478
-    files: 939
+    files: 942
   Html:
-    code: 3805
+    code: 3808
     comments: 169
     blanks: 195
-    files: 343
+    files: 344
   Svg:
     code: 2718
     comments: 106
@@ -170,6 +171,11 @@ loc:
     comments: 0
     blanks: 0
     files: 4
+  Sh:
+    code: 4
+    comments: 2
+    blanks: 0
+    files: 4
   Sass:
     code: 1
     comments: 0
@@ -177,19 +183,19 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 24108
-    blanks: 4952
-    files: 199
+    comments: 24243
+    blanks: 4988
+    files: 202
   Text:
     code: 0
-    comments: 183
+    comments: 224
     blanks: 16
-    files: 132
+    files: 172
 total:
-  code: 472558
-  comments: 144544
-  blanks: 55114
-  files: 17725
+  code: 476254
+  comments: 145862
+  blanks: 55603
+  files: 17850
 ---
 date: "2026-08-24"
 repo:
@@ -336,7 +342,7 @@ checks:
       - 'Warn: no fuzzer integrations found'
 ---
 eget:
-  collectedAt: 2026-09-07T04:27:25+00:00
+  collectedAt: 2026-09-07T20:13:03+00:00
   platform:
     darwin/arm64:
       name:  null
