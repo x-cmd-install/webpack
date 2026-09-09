@@ -2,28 +2,28 @@ about:
   description: "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through \"loaders\", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff."
   license: MIT
   homepage: https://webpack.js.org
-  head: dcb65b9
+  head: d4b2f44
   archived: false
   latestVersion: "v5.110.3"
   latestRelease: "v5.110.3"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T04:31:55Z
+  collectedAt: 2026-09-09T18:20:38Z
 timeline:
   created: 2012-03-10
-  lastCommit: 2026-09-08
+  lastCommit: 2026-09-09
   lastVersion: 2026-09-01
   lastRelease: 2026-09-01
   lastPrerelease: 
 popularity:
-  star: 65948
-  watcher: 1457
-  fork: 9548
+  star: 65944
+  watcher: 1454
+  fork: 9549
   release: 466
   contributor: 846
-  pullRequest: 9503
-  issue: 10244
+  pullRequest: 9508
+  issue: 10245
 language:
-  JavaScript: 15899859
+  JavaScript: 15903377
   CSS: 452146
   HTML: 112305
   WebAssembly: 21387
@@ -34,70 +34,70 @@ language:
   SCSS: 32
   Shell: 31
   Perl: 4
-totalBytes: 16506428
+totalBytes: 16509946
 recent:
   last30d:
     since: 2026-08-10
     release: 4
-    mergedPR: 246
-    openPR: 13
-    closedIssue: 17
-    openIssue: 2
-    commit: 237
+    mergedPR: 247
+    openPR: 17
+    closedIssue: 18
+    openIssue: 3
+    commit: 238
   last60d:
     since: 2026-07-11
     release: 7
-    mergedPR: 460
-    openPR: 28
-    closedIssue: 34
-    openIssue: 2
-    commit: 460
+    mergedPR: 461
+    openPR: 32
+    closedIssue: 35
+    openIssue: 3
+    commit: 461
   last90d:
     since: 2026-06-11
     release: 12
-    mergedPR: 618
-    openPR: 31
-    closedIssue: 49
-    openIssue: 2
-    commit: 642
+    mergedPR: 619
+    openPR: 35
+    closedIssue: 50
+    openIssue: 3
+    commit: 643
   last180d:
     since: 2026-03-13
     release: 18
-    mergedPR: 959
-    openPR: 33
-    closedIssue: 90
-    openIssue: 2
-    commit: 977
+    mergedPR: 960
+    openPR: 37
+    closedIssue: 91
+    openIssue: 3
+    commit: 978
   last360d:
     since: 2025-09-14
     release: 28
-    mergedPR: 1364
-    openPR: 34
-    closedIssue: 148
-    openIssue: 5
-    commit: 1429
+    mergedPR: 1365
+    openPR: 38
+    closedIssue: 149
+    openIssue: 6
+    commit: 1430
   last720d:
     since: 2024-09-19
     release: 51
-    mergedPR: 1806
-    openPR: 41
-    closedIssue: 345
-    openIssue: 11
-    commit: 2175
+    mergedPR: 1807
+    openPR: 45
+    closedIssue: 346
+    openIssue: 12
+    commit: 2176
 total:
   release: 466
-  mergedPR: 6543
-  openPR: 71
+  mergedPR: 6544
+  openPR: 75
   closedIssue: 10190
-  openIssue: 54
-  commit: 19433
+  openIssue: 55
+  commit: 19434
 ---
 path: /home/runner/.x-repo/github.com/webpack/webpack
-collectedAt: 2026-09-09T04:32:19Z
+collectedAt: 2026-09-09T18:21:07Z
 loc:
   JavaScript:
-    code: 409639
-    comments: 98307
+    code: 409704
+    comments: 98311
     blanks: 43268
     files: 15257
   TypeScript:
@@ -196,8 +196,8 @@ loc:
     blanks: 16
     files: 172
 total:
-  code: 477619
-  comments: 146314
+  code: 477684
+  comments: 146318
   blanks: 55794
   files: 17931
 ---
