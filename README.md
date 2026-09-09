@@ -5,9 +5,9 @@ A bundler for javascript and friends. Packs many modules into a few bundled asse
 - **Upstream**: <https://github.com/webpack/webpack>
 - **Homepage**: <https://webpack.js.org>
 - **Latest release**: `v5.110.3` (2026-09-01)
-- **Last commit**: 2026-09-08
+- **Last commit**: 2026-09-09
 - **License**: MIT
-- **Stars**: 65948 · **Forks**: 9548 · **Open issues**: 10244 · **Contributors**: 846
+- **Stars**: 65944 · **Forks**: 9549 · **Open issues**: 10245 · **Contributors**: 846
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/webpack> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T04:32:24Z._
+_Last regenerated: 2026-09-09T18:21:21Z._
