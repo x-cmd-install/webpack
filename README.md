@@ -21,34 +21,33 @@ x install webpack
 ## Release
 
 - **Latest**: `v5.110.3` (2026-09-01)
-- **Last commit**: 2026-09-09
-- **Published**: 2026-09-01T19:57:07Z
+- **Last commit**: 2026-09-10
 
 ## Popularity
 
-- **Stars**: 65,944 · **Forks**: 9,544 · **Open issues**: 10,246 · **Contributors**: 846
+- **Stars**: 65,944 · **Forks**: 9,546 · **Open issues**: 10,247 · **Contributors**: 846
 
 ## Totals (cumulative)
 
-- **Releases**: 466 · **Merged PRs**: 6545 · **Open PRs**: 73 · **Closed issues**: 10190 · **Open issues**: 56 · **Commits**: 19435
+- **Releases**: 466 · **Merged PRs**: 6550 · **Open PRs**: 75 · **Closed issues**: 10194 · **Open issues**: 53 · **Commits**: 19440
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 4 | 241 | 15 | 17 | 4 | 239 |
-| 90d | 2026-06-12 | 12 | 619 | 33 | 49 | 4 | 644 |
-| 360d | 2025-09-15 | 28 | 1363 | 36 | 149 | 7 | 1431 |
+| 30d | 2026-08-11 | 4 | 246 | 17 | 21 | 1 | 246 |
+| 90d | 2026-06-12 | 12 | 624 | 35 | 53 | 1 | 651 |
+| 360d | 2025-09-15 | 28 | 1368 | 38 | 153 | 4 | 1438 |
 
 ## Code size
 
-Total: **470,023** lines of code across **17359** files in the top 5 languages.
+Total: **471,014** lines of code across **17387** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| JavaScript | 409,704 | 98,311 | 43,268 | 15257 |
-| TypeScript | 19,998 | 17,821 | 3,320 | 134 |
-| Json | 19,281 | 0 | 3 | 664 |
+| JavaScript | 410,627 | 98,481 | 43,361 | 15280 |
+| TypeScript | 19,999 | 17,821 | 3,320 | 134 |
+| Json | 19,348 | 0 | 3 | 669 |
 | Css | 13,197 | 2,618 | 2,478 | 946 |
 | Html | 3,915 | 171 | 195 | 358 |
 
@@ -67,8 +66,8 @@ Lowest-scoring checks:
 Install metadata for webpack lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `webpack` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/webpack.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/webpack.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:38:13Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T15:50:30Z._

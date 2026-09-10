@@ -4,7 +4,7 @@
 
 A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
 
-![webpack](https://repo.x-cmd.io/webpack.svg)
+![webpack](https://repo.x-cmd.io/webpack.svg?lang=zh)
 
 ## 安装
 
@@ -21,34 +21,33 @@ x install webpack
 ## 发布
 
 - **最新版本**: `v5.110.3` (2026-09-01)
-- **最近提交**: 2026-09-09
-- **发布时间**: 2026-09-01T19:57:07Z
+- **最近提交**: 2026-09-10
 
 ## 流行度
 
-- **Star**: 65,944 · **Fork**: 9,544 · **开放 issue**: 10,246 · **贡献者**: 846
+- **Star**: 65,944 · **Fork**: 9,546 · **开放 issue**: 10,247 · **贡献者**: 846
 
 ## 累计统计
 
-- **发布数**: 466 · **已合并 PR**: 6545 · **开放 PR**: 73 · **已关闭 issue**: 10190 · **开放 issue**: 56 · **提交数**: 19435
+- **发布数**: 466 · **已合并 PR**: 6550 · **开放 PR**: 75 · **已关闭 issue**: 10194 · **开放 issue**: 53 · **提交数**: 19440
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 4 | 241 | 15 | 17 | 4 | 239 |
-| 90d | 2026-06-12 | 12 | 619 | 33 | 49 | 4 | 644 |
-| 360d | 2025-09-15 | 28 | 1363 | 36 | 149 | 7 | 1431 |
+| 30d | 2026-08-11 | 4 | 246 | 17 | 21 | 1 | 246 |
+| 90d | 2026-06-12 | 12 | 624 | 35 | 53 | 1 | 651 |
+| 360d | 2025-09-15 | 28 | 1368 | 38 | 153 | 4 | 1438 |
 
 ## 代码规模
 
-合计: **470,023** 行代码（覆盖前 5 种语言、共 **17359** 个文件）。
+合计: **471,014** 行代码（覆盖前 5 种语言、共 **17387** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| JavaScript | 409,704 | 98,311 | 43,268 | 15257 |
-| TypeScript | 19,998 | 17,821 | 3,320 | 134 |
-| Json | 19,281 | 0 | 3 | 664 |
+| JavaScript | 410,627 | 98,481 | 43,361 | 15280 |
+| TypeScript | 19,999 | 17,821 | 3,320 | 134 |
+| Json | 19,348 | 0 | 3 | 669 |
 | Css | 13,197 | 2,618 | 2,478 | 946 |
 | Html | 3,915 | 171 | 195 | 358 |
 
@@ -71,4 +70,4 @@ webpack 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:38:14Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T15:50:32Z._
