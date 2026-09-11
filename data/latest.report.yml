@@ -7,7 +7,7 @@ about:
   latestVersion: "v5.110.3"
   latestRelease: "v5.110.3"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T00:17:38Z
+  collectedAt: 2026-09-11T04:36:21Z
 timeline:
   created: 2012-03-10
   lastCommit: 2026-09-10
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 2026-09-01
   lastPrerelease: 
 popularity:
-  star: 65946
+  star: 65947
   watcher: 1454
-  fork: 9545
+  fork: 9544
   release: 466
   contributor: 846
   pullRequest: 9521
@@ -93,7 +93,7 @@ total:
   commit: 19444
 ---
 path: /home/runner/.x-repo/github.com/webpack/webpack
-collectedAt: 2026-09-11T00:18:00Z
+collectedAt: 2026-09-11T04:36:42Z
 loc:
   JavaScript:
     code: 410665
