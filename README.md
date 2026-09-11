@@ -12,40 +12,13 @@ A bundler for javascript and friends. Packs many modules into a few bundled asse
 x install webpack
 ```
 
-## Source
+## Code insight
 
-- **Upstream**: <https://github.com/webpack/webpack>
-- **Homepage**: <https://webpack.js.org>
-- **License**: MIT
-
-## Release
-
-- **Latest**: `v5.110.3` (2026-09-01)
-- **Last commit**: 2026-09-10
-
-## Popularity
-
-- **Stars**: 65,944 · **Forks**: 9,546 · **Open issues**: 10,247 · **Contributors**: 846
-
-## Totals (cumulative)
-
-- **Releases**: 466 · **Merged PRs**: 6550 · **Open PRs**: 75 · **Closed issues**: 10194 · **Open issues**: 53 · **Commits**: 19440
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 4 | 246 | 17 | 21 | 1 | 246 |
-| 90d | 2026-06-12 | 12 | 624 | 35 | 53 | 1 | 651 |
-| 360d | 2025-09-15 | 28 | 1368 | 38 | 153 | 4 | 1438 |
-
-## Code size
-
-Total: **471,014** lines of code across **17387** files in the top 5 languages.
+Total: **471,052** lines of code across **17387** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| JavaScript | 410,627 | 98,481 | 43,361 | 15280 |
+| JavaScript | 410,665 | 98,506 | 43,367 | 15280 |
 | TypeScript | 19,999 | 17,821 | 3,320 | 134 |
 | Json | 19,348 | 0 | 3 | 669 |
 | Css | 13,197 | 2,618 | 2,478 | 946 |
@@ -61,6 +34,36 @@ Lowest-scoring checks:
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
+## Source
+
+- **Upstream**: <https://github.com/webpack/webpack>
+- **Homepage**: <https://webpack.js.org>
+- **License**: MIT
+
+## Release
+
+- **Latest**: `v5.110.3` (2026-09-01)
+- **Last commit**: 2026-09-10
+
+## Popularity
+
+- **Stars**: 65,946 · **Forks**: 9,545 · **Open issues**: 10,247 · **Contributors**: 846
+
+## Totals (cumulative)
+
+- **Releases**: 466 · **Merged PRs**: 6554 · **Open PRs**: 72 · **Closed issues**: 10194 · **Open issues**: 53 · **Commits**: 19444
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-12 | 4 | 246 | 14 | 21 | 1 | 250 |
+| last60d | 2026-07-13 | 7 | 458 | 29 | 38 | 1 | 473 |
+| 90d | 2026-06-13 | 12 | 626 | 32 | 53 | 1 | 655 |
+| last180d | 2026-03-15 | 18 | 965 | 34 | 95 | 1 | 990 |
+| 360d | 2025-09-16 | 28 | 1372 | 35 | 153 | 4 | 1442 |
+| last720d | 2024-09-21 | 51 | 1815 | 42 | 350 | 10 | 2173 |
+
 ## Improve this data
 
 Install metadata for webpack lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `webpack` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -70,4 +73,4 @@ Install metadata for webpack lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T15:50:30Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:18:08Z._
