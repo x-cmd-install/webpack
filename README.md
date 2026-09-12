@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 466 · **Merged PRs**: 6559 · **Open PRs**: 78 · **Closed issues**: 10195 · **Open issues**: 57 · **Commits**: 19449
+- **Releases**: 466 · **Merged PRs**: 6559 · **Open PRs**: 80 · **Closed issues**: 10195 · **Open issues**: 57 · **Commits**: 19449
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 4 | 251 | 20 | 22 | 5 | 256 |
-| last60d | 2026-07-13 | 7 | 463 | 35 | 39 | 5 | 479 |
-| 90d | 2026-06-13 | 12 | 631 | 38 | 54 | 5 | 661 |
-| last180d | 2026-03-15 | 18 | 970 | 40 | 96 | 5 | 996 |
-| 360d | 2025-09-16 | 28 | 1377 | 41 | 154 | 8 | 1448 |
-| last720d | 2024-09-21 | 51 | 1820 | 48 | 351 | 14 | 2178 |
+| 30d | 2026-08-13 | 4 | 236 | 21 | 21 | 5 | 256 |
+| last60d | 2026-07-14 | 7 | 455 | 37 | 38 | 5 | 479 |
+| 90d | 2026-06-14 | 12 | 630 | 40 | 54 | 5 | 661 |
+| last180d | 2026-03-16 | 18 | 969 | 42 | 96 | 5 | 996 |
+| 360d | 2025-09-17 | 28 | 1376 | 43 | 154 | 8 | 1448 |
+| last720d | 2024-09-22 | 51 | 1820 | 50 | 351 | 14 | 2178 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for webpack lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T20:27:48Z._
+_Snapshot: `data/card/260912.yml` · 2026-09-12T04:27:33Z._
