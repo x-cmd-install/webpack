@@ -4,7 +4,7 @@
 
 A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
 
-![webpack](https://repo.x-cmd.io/webpack.svg?lang=zh)
+[![x-cmd/install — webpack Code Quality Monitoring Repo Card](https://repo.x-cmd.io/webpack.svg?lang=zh)](https://x-cmd.com/install/webpack)
 
 ## 安装
 
@@ -14,15 +14,15 @@ x install webpack
 
 ## 代码洞察
 
-合计: **494,821** 行代码（覆盖前 5 种语言、共 **17834** 个文件）。
+合计: **500,831** 行代码（覆盖前 5 种语言、共 **17856** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| JavaScript | 435,375 | 101,522 | 45,496 | 15702 |
-| Json | 19,397 | 0 | 3 | 678 |
-| TypeScript | 17,907 | 12,902 | 3,307 | 107 |
-| Css | 14,002 | 2,702 | 2,551 | 965 |
-| Html | 4,203 | 173 | 195 | 382 |
+| JavaScript | 437,122 | 102,149 | 45,782 | 15717 |
+| Json | 23,568 | 0 | 3 | 681 |
+| TypeScript | 17,926 | 12,932 | 3,316 | 107 |
+| Css | 14,055 | 2,751 | 2,560 | 969 |
+| Html | 4,213 | 173 | 195 | 382 |
 
 ## OpenSSF Scorecard 评分
 
@@ -42,27 +42,27 @@ x install webpack
 
 ## 发布
 
-- **最新版本**: `v5.111.0` (2026-09-14)
-- **最近提交**: 2026-09-18
+- **最新版本**: `v5.111.1` (2026-09-18)
+- **最近提交**: 2026-09-19
 
 ## 流行度
 
-- **Star**: 65,945 · **Fork**: 9,545 · **开放 issue**: 10,254 · **贡献者**: 846
+- **Star**: 65,943 · **Fork**: 9,547 · **开放 issue**: 10,254 · **贡献者**: 846
 
 ## 累计统计
 
-- **发布数**: 467 · **已合并 PR**: 6646 · **开放 PR**: 69 · **已关闭 issue**: 10200 · **开放 issue**: 54 · **提交数**: 19536
+- **发布数**: 468 · **已合并 PR**: 6670 · **开放 PR**: 75 · **已关闭 issue**: 10200 · **开放 issue**: 54 · **提交数**: 19560
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 5 | 280 | 12 | 26 | 2 | 296 |
-| last60d | 2026-07-20 | 8 | 511 | 27 | 40 | 2 | 530 |
-| 90d | 2026-06-20 | 13 | 672 | 29 | 57 | 2 | 706 |
-| last180d | 2026-03-22 | 19 | 1041 | 32 | 98 | 2 | 1066 |
-| 360d | 2025-09-23 | 29 | 1453 | 33 | 159 | 5 | 1523 |
-| last720d | 2024-09-28 | 51 | 1898 | 39 | 349 | 9 | 2246 |
+| 30d | 2026-08-21 | 6 | 281 | 17 | 26 | 2 | 258 |
+| last60d | 2026-07-22 | 9 | 524 | 30 | 39 | 2 | 496 |
+| 90d | 2026-06-22 | 14 | 682 | 34 | 57 | 2 | 693 |
+| last180d | 2026-03-24 | 20 | 1061 | 38 | 96 | 2 | 1073 |
+| 360d | 2025-09-25 | 30 | 1474 | 39 | 158 | 5 | 1531 |
+| last720d | 2024-09-30 | 52 | 1922 | 45 | 348 | 9 | 2270 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ webpack 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T04:35:20Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T04:59:28Z._
