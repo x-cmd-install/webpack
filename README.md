@@ -14,13 +14,13 @@ x install webpack
 
 ## Code insight
 
-Total: **638,935** lines of code across **19580** files in the top 5 languages.
+Total: **640,104** lines of code across **19692** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| JavaScript | 553,136 | 124,134 | 51,227 | 17307 |
-| Json | 38,172 | 0 | 3 | 725 |
-| TypeScript | 24,091 | 18,777 | 3,993 | 70 |
+| JavaScript | 554,768 | 124,453 | 51,375 | 17415 |
+| Json | 37,709 | 0 | 3 | 729 |
+| TypeScript | 24,091 | 18,789 | 3,995 | 70 |
 | Css | 14,952 | 3,208 | 2,706 | 1042 |
 | Html | 4,580 | 206 | 195 | 436 |
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 65,980 · **Forks**: 9,539 · **Open issues**: 10,265 · **Contributors**: 849
+- **Stars**: 65,981 · **Forks**: 9,546 · **Open issues**: 10,269 · **Contributors**: 850
 
 ## Totals (cumulative)
 
-- **Releases**: 469 · **Merged PRs**: 7182 · **Open PRs**: 69 · **Closed issues**: 10216 · **Open issues**: 49 · **Commits**: 20072
+- **Releases**: 469 · **Merged PRs**: 7211 · **Open PRs**: 63 · **Closed issues**: 10220 · **Open issues**: 49 · **Commits**: 20101
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-19 | 1 | 501 | 13 | 12 | 0 | 405 |
-| last60d | 2026-08-20 | 7 | 808 | 16 | 38 | 2 | 772 |
-| 90d | 2026-07-21 | 10 | 1044 | 27 | 52 | 2 | 1019 |
-| last180d | 2026-04-22 | 18 | 1495 | 33 | 88 | 2 | 1500 |
-| 360d | 2025-10-24 | 29 | 1920 | 35 | 167 | 4 | 1960 |
-| last720d | 2024-10-29 | 53 | 2408 | 41 | 346 | 7 | 2650 |
+| 30d | 2026-09-20 | 1 | 509 | 7 | 15 | 0 | 438 |
+| last60d | 2026-08-21 | 7 | 821 | 10 | 42 | 2 | 805 |
+| 90d | 2026-07-22 | 10 | 1065 | 20 | 55 | 2 | 1052 |
+| last180d | 2026-04-23 | 18 | 1522 | 27 | 92 | 2 | 1533 |
+| 360d | 2025-10-25 | 29 | 1949 | 29 | 171 | 4 | 1993 |
+| last720d | 2024-10-30 | 53 | 2434 | 35 | 350 | 7 | 2679 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for webpack lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261019.yml` · 2026-10-19T04:33:52Z._
+_Snapshot: `data/card/261020.yml` · 2026-10-20T04:51:04Z._
