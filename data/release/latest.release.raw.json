@@ -40,5 +40,17 @@
   ],
   "tarball_url": "https://api.github.com/repos/webpack/webpack/tarball/v5.112.2",
   "zipball_url": "https://api.github.com/repos/webpack/webpack/zipball/v5.112.2",
-  "body": "### Patch Changes\n\n- Reduce repeated scans when concatenating imported modules. (by [@xiaoxiaojx](https://github.com/xiaoxiaojx) in [#22865](https://github.com/webpack/webpack/pull/22865))\n\n- Avoid allocating CSS module sets for single-group chunks. (by [@xiaoxiaojx](https://github.com/xiaoxiaojx) in [#22866](https://github.com/webpack/webpack/pull/22866))\n\n- Return the value of every module type loaded with `importModule()`. (by [@alexander-akait](https://github.com/alexander-akait) in [#22869](https://github.com/webpack/webpack/pull/22869))"
+  "body": "### Patch Changes\n\n- Reduce repeated scans when concatenating imported modules. (by [@xiaoxiaojx](https://github.com/xiaoxiaojx) in [#22865](https://github.com/webpack/webpack/pull/22865))\n\n- Avoid allocating CSS module sets for single-group chunks. (by [@xiaoxiaojx](https://github.com/xiaoxiaojx) in [#22866](https://github.com/webpack/webpack/pull/22866))\n\n- Return the value of every module type loaded with `importModule()`. (by [@alexander-akait](https://github.com/alexander-akait) in [#22869](https://github.com/webpack/webpack/pull/22869))",
+  "reactions": {
+    "url": "https://api.github.com/repos/webpack/webpack/releases/421802005/reactions",
+    "total_count": 1,
+    "+1": 0,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 1,
+    "confused": 0,
+    "heart": 0,
+    "rocket": 0,
+    "eyes": 0
+  }
 }
