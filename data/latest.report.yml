@@ -2,32 +2,32 @@ about:
   description: "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through \"loaders\", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff."
   license: MIT
   homepage: https://webpack.js.org
-  head: ef640cf
+  head: b31e011
   archived: false
   latestVersion: "v5.112.2"
   latestRelease: "v5.112.2"
   latestPrerelease: ""
-  collectedAt: 2026-10-29T05:38:16Z
+  collectedAt: 2026-10-30T05:41:34Z
 timeline:
   created: 2012-03-10
-  lastCommit: 2026-10-28
+  lastCommit: 2026-10-29
   lastVersion: 2026-10-23
   lastRelease: 2026-10-23
   lastPrerelease: 
 popularity:
-  star: 65973
-  watcher: 1422
-  fork: 9544
+  star: 65968
+  watcher: 1420
+  fork: 9564
   release: 471
   contributor: 851
-  pullRequest: 10423
-  issue: 10287
+  pullRequest: 10446
+  issue: 10288
 language:
-  JavaScript: 23985650
-  CSS: 544236
+  JavaScript: 24108795
+  CSS: 544657
   TypeScript: 260519
-  HTML: 142890
-  WebAssembly: 22762
+  HTML: 143906
+  WebAssembly: 23274
   Less: 1094
   Shell: 567
   CoffeeScript: 325
@@ -35,102 +35,102 @@ language:
   Smarty: 93
   SCSS: 32
   Perl: 4
-totalBytes: 24958302
+totalBytes: 25083396
 recent:
   last30d:
-    since: 2026-09-29
+    since: 2026-09-30
     release: 3
-    mergedPR: 508
-    openPR: 16
-    closedIssue: 24
-    openIssue: 3
-    commit: 499
+    mergedPR: 516
+    openPR: 19
+    closedIssue: 26
+    openIssue: 2
+    commit: 517
   last60d:
-    since: 2026-08-30
-    release: 7
-    mergedPR: 889
-    openPR: 18
-    closedIssue: 54
-    openIssue: 5
-    commit: 895
+    since: 2026-08-31
+    release: 6
+    mergedPR: 893
+    openPR: 21
+    closedIssue: 51
+    openIssue: 4
+    commit: 913
   last90d:
-    since: 2026-07-31
+    since: 2026-08-01
     release: 9
-    mergedPR: 1119
-    openPR: 22
-    closedIssue: 66
-    openIssue: 5
-    commit: 1124
+    mergedPR: 1127
+    openPR: 24
+    closedIssue: 67
+    openIssue: 4
+    commit: 1142
   last180d:
-    since: 2026-05-02
+    since: 2026-05-03
     release: 20
-    mergedPR: 1629
-    openPR: 33
-    closedIssue: 105
-    openIssue: 5
-    commit: 1649
+    mergedPR: 1644
+    openPR: 36
+    closedIssue: 107
+    openIssue: 4
+    commit: 1667
   last360d:
-    since: 2025-11-03
+    since: 2025-11-04
     release: 31
-    mergedPR: 2051
-    openPR: 34
-    closedIssue: 185
-    openIssue: 7
-    commit: 2096
+    mergedPR: 2062
+    openPR: 37
+    closedIssue: 187
+    openIssue: 6
+    commit: 2114
   last720d:
-    since: 2024-11-08
+    since: 2024-11-09
     release: 53
-    mergedPR: 2544
-    openPR: 39
-    closedIssue: 359
-    openIssue: 10
-    commit: 2752
+    mergedPR: 2560
+    openPR: 42
+    closedIssue: 360
+    openIssue: 9
+    commit: 2761
 total:
   release: 471
-  mergedPR: 7339
-  openPR: 68
-  closedIssue: 10235
-  openIssue: 52
-  commit: 20229
+  mergedPR: 7355
+  openPR: 71
+  closedIssue: 10237
+  openIssue: 51
+  commit: 20245
 ---
 path: /home/runner/.x-repo/github.com/webpack/webpack
-collectedAt: 2026-10-29T05:38:45Z
+collectedAt: 2026-10-30T05:42:06Z
 loc:
   JavaScript:
-    code: 593886
-    comments: 135765
-    blanks: 54336
-    files: 17913
+    code: 597204
+    comments: 136244
+    blanks: 54595
+    files: 18065
   Json:
-    code: 38193
+    code: 38194
     comments: 0
     blanks: 3
     files: 735
   TypeScript:
-    code: 24774
-    comments: 19222
-    blanks: 4035
+    code: 24403
+    comments: 19276
+    blanks: 4039
     files: 71
   Css:
-    code: 15010
-    comments: 3209
+    code: 15059
+    comments: 3210
     blanks: 2707
-    files: 1061
+    files: 1071
   Html:
-    code: 4689
+    code: 4729
     comments: 208
     blanks: 195
-    files: 450
+    files: 457
   Svg:
-    code: 2740
+    code: 2741
     comments: 107
     blanks: 0
-    files: 77
+    files: 78
   WebAssembly:
-    code: 728
+    code: 746
     comments: 4
     blanks: 57
-    files: 90
+    files: 92
   Yaml:
     code: 356
     comments: 24
@@ -193,8 +193,8 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 25285
-    blanks: 5557
+    comments: 25294
+    blanks: 5559
     files: 216
   Text:
     code: 0
@@ -202,10 +202,10 @@ loc:
     blanks: 16
     files: 225
 total:
-  code: 688652
-  comments: 186927
-  blanks: 68396
-  files: 20887
+  code: 691712
+  comments: 187470
+  blanks: 68661
+  files: 21059
 ---
 date: "2026-10-19"
 repo:
