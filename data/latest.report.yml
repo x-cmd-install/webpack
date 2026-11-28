@@ -2,12 +2,12 @@ about:
   description: "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through \"loaders\", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff."
   license: MIT
   homepage: https://webpack.js.org
-  head: aebe51c
+  head: d099046
   archived: false
   latestVersion: "v5.113.0"
   latestRelease: "v5.113.0"
   latestPrerelease: ""
-  collectedAt: 2026-11-27T08:12:08Z
+  collectedAt: 2026-11-28T07:41:23Z
 timeline:
   created: 2012-03-10
   lastCommit: 2026-11-27
@@ -15,18 +15,18 @@ timeline:
   lastRelease: 2026-11-19
   lastPrerelease: 
 popularity:
-  star: 66019
-  watcher: 1417
-  fork: 9623
+  star: 66016
+  watcher: 1412
+  fork: 9642
   release: 472
-  contributor: 861
-  pullRequest: 10999
+  contributor: 862
+  pullRequest: 11010
   issue: 10312
 language:
-  JavaScript: 25521031
-  CSS: 568628
-  TypeScript: 285984
-  HTML: 168456
+  JavaScript: 25653436
+  CSS: 569134
+  TypeScript: 291484
+  HTML: 171882
   WebAssembly: 24244
   Less: 1094
   Shell: 567
@@ -35,102 +35,102 @@ language:
   Smarty: 93
   SCSS: 50
   Perl: 4
-totalBytes: 26570606
+totalBytes: 26712443
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 1
-    mergedPR: 502
-    openPR: 10
-    closedIssue: 24
+    mergedPR: 495
+    openPR: 7
+    closedIssue: 23
     openIssue: 1
-    commit: 577
+    commit: 594
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 4
-    mergedPR: 1035
-    openPR: 12
+    mergedPR: 1030
+    openPR: 9
     closedIssue: 51
     openIssue: 1
-    commit: 1117
+    commit: 1134
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 8
-    mergedPR: 1407
-    openPR: 13
+    mergedPR: 1412
+    openPR: 9
     closedIssue: 81
     openIssue: 3
-    commit: 1504
+    commit: 1521
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 18
-    mergedPR: 2004
-    openPR: 26
+    mergedPR: 2015
+    openPR: 22
     closedIssue: 124
     openIssue: 3
-    commit: 2122
+    commit: 2139
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 31
-    mergedPR: 2485
-    openPR: 26
+    mergedPR: 2495
+    openPR: 22
     closedIssue: 200
     openIssue: 4
-    commit: 2619
+    commit: 2636
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 52
-    mergedPR: 3026
-    openPR: 30
+    mergedPR: 3038
+    openPR: 26
     closedIssue: 367
     openIssue: 6
-    commit: 3159
+    commit: 3171
 total:
   release: 472
-  mergedPR: 7850
-  openPR: 60
+  mergedPR: 7862
+  openPR: 56
   closedIssue: 10263
   openIssue: 49
-  commit: 20742
+  commit: 20754
 ---
 path: /home/runner/.x-repo/github.com/webpack/webpack
-collectedAt: 2026-11-27T08:13:02Z
+collectedAt: 2026-11-28T07:42:19Z
 loc:
   JavaScript:
-    code: 708330
-    comments: 145025
-    blanks: 61657
-    files: 34263
+    code: 711204
+    comments: 146443
+    blanks: 61951
+    files: 34354
   Json:
-    code: 143218
+    code: 143462
     comments: 0
     blanks: 3
-    files: 11034
+    files: 11076
   Css:
-    code: 34665
+    code: 34677
     comments: 6197
     blanks: 3788
-    files: 13121
+    files: 13127
   TypeScript:
-    code: 26413
-    comments: 20436
-    blanks: 4536
-    files: 170
+    code: 26341
+    comments: 20502
+    blanks: 4555
+    files: 171
   Html:
-    code: 10564
-    comments: 316
+    code: 10686
+    comments: 317
     blanks: 206
-    files: 3754
+    files: 3792
   Xml:
-    code: 9187
+    code: 9190
     comments: 31
     blanks: 31
-    files: 1863
+    files: 1866
   Svg:
-    code: 2883
+    code: 2884
     comments: 110
     blanks: 0
-    files: 105
+    files: 106
   WebAssembly:
     code: 769
     comments: 4
@@ -193,24 +193,24 @@ loc:
     files: 2
   Markdown:
     code: 0
-    comments: 45314
-    blanks: 22902
+    comments: 45320
+    blanks: 22905
     files: 2751
   Text:
     code: 0
-    comments: 328
+    comments: 329
     blanks: 16
-    files: 272
+    files: 273
 total:
-  code: 945195
-  comments: 220632
-  blanks: 94691
-  files: 67479
+  code: 948406
+  comments: 222124
+  blanks: 95007
+  files: 67662
 ---
-date: "2026-11-27T04:56:53Z"
+date: "2026-11-27T18:48:30Z"
 repo:
   name: github.com/webpack/webpack
-  commit: aebe51c0d176453d82498ddae6f15734814dccd9
+  commit: d099046f46c54f11653b640045943f6449a38112
 scorecard:
   version: v5.7.0
   commit: d7552fb3cdc05e9f6426177d3328887304fce554
@@ -222,24 +222,18 @@ checks:
     details: null
   - name: Code-Review
     score: 1
-    reason: Found 5/29 approved changesets -- score normalized to 1
+    reason: Found 4/29 approved changesets -- score normalized to 1
     details: null
-  - name: Dependency-Update-Tool
-    score: 10
-    reason: update tool detected
-    details:
-      - 'Info: detected update tool: Dependabot: .github/dependabot.yml:1'
   - name: Packaging
     score: -1
     reason: packaging workflow not detected
     details:
       - 'Warn: no GitHub/GitLab publishing workflow detected.'
-  - name: License
+  - name: Dependency-Update-Tool
     score: 10
-    reason: license file detected
+    reason: update tool detected
     details:
-      - 'Info: project has a license file: LICENSE:0'
-      - 'Info: FSF or OSI recognized license: MIT License: LICENSE:0'
+      - 'Info: detected update tool: Dependabot: .github/dependabot.yml:1'
   - name: Dangerous-Workflow
     score: 10
     reason: no dangerous workflow patterns detected
@@ -249,15 +243,14 @@ checks:
     reason: GitHub workflow tokens follow principle of least privilege
     details:
       - 'Info: jobLevel ''contents'' permission set to ''read'': .github/workflows/benchmarks.yml:58'
-      - 'Info: jobLevel ''contents'' permission set to ''read'': .github/workflows/codeql.yml:31'
-      - 'Warn: jobLevel ''security-events'' permission set to ''write'': .github/workflows/codeql.yml:32'
-      - 'Info: jobLevel ''actions'' permission set to ''read'': .github/workflows/codeql.yml:30'
+      - 'Info: jobLevel ''actions'' permission set to ''read'': .github/workflows/codeql.yml:32'
+      - 'Info: jobLevel ''contents'' permission set to ''read'': .github/workflows/codeql.yml:33'
       - 'Warn: jobLevel ''contents'' permission set to ''write'': .github/workflows/dependabot.yml:17'
       - 'Warn: jobLevel ''contents'' permission set to ''write'': .github/workflows/examples.yml:22'
       - 'Info: jobLevel ''contents'' permission set to ''read'': .github/workflows/labeler.yml:20'
       - 'Info: jobLevel ''actions'' permission set to ''read'': .github/workflows/pr-reports.yml:38'
       - 'Warn: jobLevel ''contents'' permission set to ''write'': .github/workflows/release.yml:20'
-      - 'Info: jobLevel ''contents'' permission set to ''read'': .github/workflows/test.yml:818'
+      - 'Info: jobLevel ''contents'' permission set to ''read'': .github/workflows/test.yml:819'
       - 'Info: topLevel ''contents'' permission set to ''read'': .github/workflows/benchmarks.yml:31'
       - 'Info: topLevel ''contents'' permission set to ''read'': .github/workflows/code-size.yml:21'
       - 'Info: topLevel ''actions'' permission set to ''read'': .github/workflows/code-size.yml:23'
@@ -276,21 +269,15 @@ checks:
       - 'Info: topLevel permissions set to ''read-all'': .github/workflows/scorecard.yml:19'
       - 'Info: topLevel ''contents'' permission set to ''read'': .github/workflows/test.yml:20'
       - 'Info: topLevel ''contents'' permission set to ''read'': .github/workflows/types-coverage.yml:12'
+  - name: License
+    score: 10
+    reason: license file detected
+    details:
+      - 'Info: project has a license file: LICENSE:0'
+      - 'Info: FSF or OSI recognized license: MIT License: LICENSE:0'
   - name: CII-Best-Practices
     score: 2
     reason: 'badge detected: InProgress'
-    details: null
-  - name: Security-Policy
-    score: 10
-    reason: security policy file detected
-    details:
-      - 'Info: security policy file detected: github.com/webpack/.github/.github/SECURITY.md:1'
-      - 'Info: Found linked content: github.com/webpack/.github/.github/SECURITY.md:1'
-      - 'Info: Found disclosure, vulnerability, and/or timelines in security policy: github.com/webpack/.github/.github/SECURITY.md:1'
-      - 'Info: Found text in security policy: github.com/webpack/.github/.github/SECURITY.md:1'
-  - name: Signed-Releases
-    score: -1
-    reason: no releases found
     details: null
   - name: Branch-Protection
     score: 5
@@ -305,6 +292,25 @@ checks:
       - 'Warn: ''last push approval'' is disabled on branch ''main'''
       - 'Info: status check found to merge onto on branch ''main'''
       - 'Info: PRs are required in order to make changes on branch ''main'''
+  - name: Signed-Releases
+    score: -1
+    reason: no releases found
+    details: null
+  - name: Security-Policy
+    score: 10
+    reason: security policy file detected
+    details:
+      - 'Info: security policy file detected: github.com/webpack/.github/.github/SECURITY.md:1'
+      - 'Info: Found linked content: github.com/webpack/.github/.github/SECURITY.md:1'
+      - 'Info: Found disclosure, vulnerability, and/or timelines in security policy: github.com/webpack/.github/.github/SECURITY.md:1'
+      - 'Info: Found text in security policy: github.com/webpack/.github/.github/SECURITY.md:1'
+  - name: Pinned-Dependencies
+    score: 10
+    reason: all dependencies are pinned
+    details:
+      - 'Info:  89 out of  89 GitHub-owned GitHubAction dependencies pinned'
+      - 'Info:  16 out of  16 third-party GitHubAction dependencies pinned'
+      - 'Info:   2 out of   2 containerImage dependencies pinned'
   - name: Binary-Artifacts
     score: 0
     reason: binaries present in source code
@@ -353,17 +359,11 @@ checks:
       - 'Warn: binary detected: test/statsCases/wasm-explorer-examples-sync/testFunction.wasm:1'
       - 'Warn: binary detected: test/watchCases/wasm/caching/0/wasm.wasm:1'
       - 'Warn: binary detected: test/watchCases/wasm/caching/1/wasm.wasm:1'
-  - name: Pinned-Dependencies
-    score: 10
-    reason: all dependencies are pinned
-    details:
-      - 'Info:  86 out of  86 GitHub-owned GitHubAction dependencies pinned'
-      - 'Info:  16 out of  16 third-party GitHubAction dependencies pinned'
-      - 'Info:   2 out of   2 containerImage dependencies pinned'
   - name: SAST
     score: 10
     reason: SAST tool is run on all commits
     details:
+      - 'Info: SAST configuration detected: CodeQL'
       - 'Info: all commits (30) are checked with a SAST tool'
   - name: Fuzzing
     score: 10
